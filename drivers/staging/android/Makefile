@@ -1,4 +1,4 @@
-ccflags-y += -I$(src)			# needed for trace events
+ccflags-y += -O3
 
 ##obj-y					+= ion/
 
